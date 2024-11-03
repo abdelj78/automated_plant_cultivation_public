@@ -1,0 +1,1 @@
+ADC_TEST4 is used to test the ADC but also to measure different metrics of the signal. it also plots the time response of the signal(unfiltered)
