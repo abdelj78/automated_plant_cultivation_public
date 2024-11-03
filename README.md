@@ -7,4 +7,4 @@ automated plant cultivation
 
 Post deadlines work: The system managed to record real tomato plant sound
 
-<img src="real_plant_sound.png" alt="system diagram" width="650"/>
+<img src="real_plant_sound.jpg" alt="real plant sound" width="650"/>
